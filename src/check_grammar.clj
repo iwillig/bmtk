@@ -159,10 +159,11 @@
     (check-string lang-tool text)))
 
 
-"[This is a goog link](http://www.google.com)"
+
 
 (comment
 
+  (def link-doc "[This is a goog link](http://www.google.com)")
   (check-grammar/-main)
 
   )
