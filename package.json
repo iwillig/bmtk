@@ -1,0 +1,9 @@
+{
+  "name": "bmtk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mapnik": "^4.5.9"
+  }
+}
